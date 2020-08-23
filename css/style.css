@@ -22,7 +22,7 @@ table {
 #lorum {
     columns: 3;
     text-align: justify;
-    max-width: 75%;
+    
 }
 h1 {
     text-align: center;
