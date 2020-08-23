@@ -1,13 +1,15 @@
 body {
     text-align: center;
-    background-color: chocolate;
+    background-color: red;
     font-size: 24px;
+    
 }
 
 table {
     text-align: justify;
     border: coral;
     column-rule-color: crimson;
+    border: solid 2px black;
 
 }
 
@@ -16,4 +18,14 @@ table {
     font-size: 40px;
     text-decoration-style: dotted;
     border-top: floralwhite;
+}
+#lorum {
+    columns: 3;
+    text-align: justify;
+    max-width: 75%;
+}
+h1 {
+    text-align: center;
+    margin-right: 60px;
+    border-right: 100px
 }
